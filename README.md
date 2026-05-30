@@ -1,3 +1,3 @@
-<a href="https://github.com/user-attachments/assets/b79d789d-2d89-4d36-8426-9dbcd216726f">
-  <img width="752" height="508" alt="readme_svg" src="https://github.com/user-attachments/assets/b79d789d-2d89-4d36-8426-9dbcd216726f" />
+<a href="https://github.com/user-attachments/assets/ea32b276-15b0-47e2-8962-94882629f543">
+  <img width="752" height="508" alt="readme_svg" src="https://github.com/user-attachments/assets/ea32b276-15b0-47e2-8962-94882629f543" />
 </a>
